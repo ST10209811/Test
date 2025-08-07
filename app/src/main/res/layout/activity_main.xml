@@ -37,7 +37,3 @@
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
-
-<LinearLayout
-    android:id="@+id/main"
-/>
